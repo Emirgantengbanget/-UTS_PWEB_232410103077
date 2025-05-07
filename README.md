@@ -1,1 +1,1 @@
-# -UTS_PWEB_232410103077
+Website ini adalah aplikasi manajemen restoran berbasis Laravel yang mencakup fitur-fitur utama seperti autentikasi pengguna (login dan logout), profil admin, pemesanan, pengelolaan data restoran, serta tampilan dashboard utama. website yang saya buat ini menyajikan  penggunaan yang terstruktur menggunakan Blade template dan memanfaatkan kontroler untuk mengelola alur logika. Fitur-fitur utama tersedia melalui halaman-halaman seperti dashboard, pemesanan, pengelolaan, dan profile.
